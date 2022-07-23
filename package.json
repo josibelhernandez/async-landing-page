@@ -1,0 +1,22 @@
+{
+  "name": "async-landing-page",
+  "version": "1.0.0",
+  "description": "Landing Page Async",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josibelhernandez/async-landing-page.git"
+  },
+  "author": "Josibel H.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josibelhernandez/async-landing-page/issues"
+  },
+  "homepage": "https://github.com/josibelhernandez/async-landing-page#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
